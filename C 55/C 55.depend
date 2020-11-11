@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605109320 source:c:\users\kelum\documents\github\programming-c-learning\c 55\main.c
+	<stdio.h>
+	<stdlib.h>
+
