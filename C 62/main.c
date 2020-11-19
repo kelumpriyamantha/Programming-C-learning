@@ -1,17 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-float findAvg()
+int findsum(int a,int b)
 {
-    int a,b;
-    float avg;
-    printf("Enter Two integers");
-    scanf("%d %d",&a,&b);
-    avg=(float)(a+b)/2;
- return avg;
+    int total=a+b;
+ return total;
 }
 
 int main()
 {
-    printf("The Average is %.2f \n",findAvg());
+    int x,y;
+    printf("Enter The integers");
+    scanf("%d %d,&x,&y");
+    printf("The sum is %d \n",findsum(56,78));
 }
