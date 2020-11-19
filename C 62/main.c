@@ -1,15 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int findSum()
+float findAvg()
 {
-    int a=15,b=60,c;
-    c=a+b;
- return c;
+    int a,b;
+    float avg;
+    printf("Enter Two integers");
+    scanf("%d %d",&a,&b);
+    avg=(float)(a+b)/2;
+ return avg;
 }
 
 int main()
 {
-    int ans=findSum();
-    printf("The sum is %d \n",ans);
+    printf("The Average is %.2f \n",findAvg());
 }
