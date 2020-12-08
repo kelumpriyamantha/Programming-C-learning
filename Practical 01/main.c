@@ -3,15 +3,16 @@
 
 int main()
 {
-       float no1,no2,total,avg;
-   printf("Enter the first number");
-   scanf("%f",&no1);
-   printf("Enter the second number");
-   scanf("%f",&no2);
-   total=(no1+no2);
-   avg=(no1+no2)/2;
-   printf("Total is %f\n",total);
-   printf("Average is %f\n",avg);
+    printf("The color:%s\n","blue");
+    printf("First number:%d\n",12345);
+    printf("Second number:%04d\n",25);
+    printf("Third number:%i\n",1234);
+    printf("Float number:%3.2f\n",3.14159);
+    printf("Hexadecimal:%x\n",255);
+    printf("Octal:%o\n",255);
+    printf("Unsigned value:%u\n",150);
+    printf("Just print the percentage sign %%\n",10);
+    return 0;
 }
 
 
