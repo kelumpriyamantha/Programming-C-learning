@@ -1,17 +1,24 @@
-#include<stdio.h>
-#include<stdio.h>
-
+#include <stdio.h>
 int main()
 {
-    int C,F;
-    printf("Input temperature value in Celsius");
-    scanf("%d",&C);
-    printf("Input temperature value in Fahreheit");
-    scanf("%d",&F);
+  int no1,no2;
+   printf("Enter two numbers \n");
+   scanf("%d %d", &no1 , &no2);
 
-    C = (5/9)*(F-32);
-    printf("%d %d",C,F);
-    return 0;
+   if (no1 > no2){
+
+   printf("The highest number %d. \n",no1);
+   }
+   else{
+
+   printf("The highest number %d. \n",no2);
+   }
 }
+
+
+
+
+
+
 
 
