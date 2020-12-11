@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1607618707 source:c:\users\kelum\documents\github\programming-c-learning\practical 01\main.c
+1607709895 source:c:\users\kelum\documents\github\programming-c-learning\practical 01\main.c
 	<stdio.h>
+	<stdlib.h>
 
