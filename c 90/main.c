@@ -16,6 +16,6 @@ int main()
       printf("\n Number2 is greatest");
    else
       printf("\n Number3 is greatest");
-      printf("you");
+      printf("you");;;
     return 0;
 }
