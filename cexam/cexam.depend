@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609914126 source:c:\users\kelum\documents\github\programming-c-learning\cexam\main.c
+	<stdio.h>
+	<stdlib.h>
+
