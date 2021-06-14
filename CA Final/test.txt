@@ -1,0 +1,18 @@
+Name : kelum
+
+Student ID : 20763
+
+Your MAC Address is : 
+
+Your Computer Name :MSI
+
+Square root of 1 is 1
+ Write Date: 14/6/2021
+ Write Time: 6:31:2
+ Count : 1
+
+Square root of 2 is 1.41421
+ Write Date: 14/6/2021
+ Write Time: 6:31:5
+ Count : 2
+

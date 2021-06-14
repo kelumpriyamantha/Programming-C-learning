@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1623632386 source:c:\users\kelum\documents\github\programming-c-learning\ca final\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<math.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<iterator>
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	<iostream>
+	<stdio.h>
+	<errno.h>
+	<string.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+	<ctime>
+	<fstream>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<iterator>
+
